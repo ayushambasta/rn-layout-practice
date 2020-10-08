@@ -1,0 +1,5 @@
+http://40.123.213.242/merchant/01edc556-7e21-462a-a0eb-b0311ac63a47
+
+###
+
+http://40.123.213.242/merchantBuyerPlatformParams?m_id=01edc556-7e21-462a-a0eb-b0311ac63a47&bp_id=2
